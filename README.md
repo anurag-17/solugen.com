@@ -1,0 +1,2 @@
+# solugen.com
+Web mode
